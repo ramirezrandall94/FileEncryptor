@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3YRagEONfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramir\\source\\repos\\FileEncryptor\\FileEncryptor\\FileEncryptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramir\\.nuget\\packages\\keralua\\1.4.3\\keralua.1.4.3.nupkg.sha512",
+    "C:\\Users\\ramir\\.nuget\\packages\\nlua\\1.7.4\\nlua.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
